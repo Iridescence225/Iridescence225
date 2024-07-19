@@ -83,7 +83,7 @@ DOMAIN-SUFFIX,reddust.link
 
 # 卡戎
 DOMAIN-SUFFIX,charontv.com
-DOMAIN-SUFFIX,pdatv.cc
+DOMAIN,pdatv.cc
 
 ##### L #####
 
@@ -283,4 +283,4 @@ DOMAIN-SUFFIX,emby.ws
 DOMAIN-SUFFIX,ohhhh.org
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,9521732.xyz
-DOMAIN-SUFFIX,pdatv.cc
+
