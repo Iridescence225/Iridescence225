@@ -1,12 +1,12 @@
 payload:
-  - DOMAIN-SUFFIX,pdatv.cc
-  - DOMAIN-SUFFIX,mius.uk
-  - DOMAIN-SUFFIX,nijigem.by
-  - DOMAIN-SUFFIX,emby77.cf
-  - DOMAIN-SUFFIX,emby77.org
-  - DOMAIN-SUFFIX,pilipiliultra.top
-  - DOMAIN-SUFFIX,pilipiliultra.com
-  - DOMAIN-SUFFIX,9521732.xyz
-  - DOMAIN-SUFFIX,embyplus.org
+  - DOMAIN-KEYWORD,pdatv.cc
+  - DOMAIN-KEYWORD,mius.uk
+  - DOMAIN-KEYWORD,nijigem.by
+  - DOMAIN-KEYWORD,emby77.cf
+  - DOMAIN-KEYWORD,emby77.org
+  - DOMAIN-KEYWORD,pilipiliultra.top
+  - DOMAIN-KEYWORD,pilipiliultra.com
+  - DOMAIN-KEYWORD,9521732.xyz
+  - DOMAIN-KEYWORD,embyplus.org
   - DOMAIN-KEYWORD,charontv
-  
+  - DOMAIN-KEYWORD,xmsl
